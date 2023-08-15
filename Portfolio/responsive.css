@@ -1,0 +1,24 @@
+@media only screen and (max-width: 600px)
+{
+    .side-nav
+    {
+        width:110px;
+    }
+    .logo
+    {
+       display:none;
+    }
+    .nav-links li a p
+    {
+        display:none;
+    }
+    .nav-links li a img
+    {
+       margin-right: 0;
+    }
+    .nav-links li a
+    {
+        justify-content: center;
+    }
+
+}
